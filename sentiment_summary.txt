@@ -1,0 +1,15 @@
+SENTIMENT ANALYSIS SUMMARY
+
+Total reviews analyzed: 30
+
+Sentiment counts:
+Sentiment
+Positive    10
+Negative    10
+Neutral     10
+
+Sentiment percentages:
+Sentiment
+Positive    33.33
+Negative    33.33
+Neutral     33.33

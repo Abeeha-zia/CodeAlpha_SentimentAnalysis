@@ -1,0 +1,31 @@
+Review_ID,Review,Positive Score,Negative Score,Neutral Score,Compound Score,Sentiment
+1,This book is amazing and very interesting,0.576,0.0,0.424,0.7778,Positive
+2,I really enjoyed reading this book,0.418,0.0,0.582,0.5563,Positive
+3,Excellent story and wonderful characters,0.712,0.0,0.288,0.8126,Positive
+4,The book is fantastic and easy to understand,0.52,0.0,0.48,0.7579,Positive
+5,I love this book and highly recommend it,0.538,0.0,0.462,0.7902,Positive
+6,A brilliant book with great explanations,0.664,0.0,0.336,0.836,Positive
+7,The story is beautiful and inspiring,0.626,0.0,0.374,0.7717,Positive
+8,Very useful book with excellent content,0.633,0.0,0.367,0.7841,Positive
+9,I am happy with this purchase,0.425,0.0,0.575,0.5719,Positive
+10,One of the best books I have read,0.375,0.0,0.625,0.6369,Positive
+11,This book is terrible and boring,0.0,0.574,0.426,-0.6597,Negative
+12,I hate this book,0.0,0.552,0.448,-0.5719,Negative
+13,The story is disappointing and confusing,0.0,0.56,0.44,-0.6249,Negative
+14,Very poor quality and bad writing,0.0,0.633,0.367,-0.7841,Negative
+15,I regret buying this book,0.0,0.412,0.588,-0.4215,Negative
+16,The content is useless and frustrating,0.0,0.588,0.412,-0.6908,Negative
+17,A horrible book with weak characters,0.0,0.615,0.385,-0.7506,Negative
+18,The explanations are awful,0.0,0.5,0.5,-0.4588,Negative
+19,I am unhappy with this purchase,0.0,0.359,0.641,-0.4215,Negative
+20,This is one of the worst books I have read,0.0,0.313,0.687,-0.6249,Negative
+21,The book arrived yesterday,0.0,0.0,1.0,0.0,Neutral
+22,This book has 250 pages,0.0,0.0,1.0,0.0,Neutral
+23,The author published the book in 2024,0.0,0.0,1.0,0.0,Neutral
+24,I bought this book last week,0.0,0.0,1.0,0.0,Neutral
+25,The book contains ten chapters,0.0,0.0,1.0,0.0,Neutral
+26,The cover is blue,0.0,0.0,1.0,0.0,Neutral
+27,The book is available in paperback,0.0,0.0,1.0,0.0,Neutral
+28,I read three chapters today,0.0,0.0,1.0,0.0,Neutral
+29,The title is printed on the cover,0.0,0.0,1.0,0.0,Neutral
+30,The book was published by a local publisher,0.0,0.0,1.0,0.0,Neutral
